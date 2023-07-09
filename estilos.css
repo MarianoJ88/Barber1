@@ -18,7 +18,7 @@
 
 .navbar-toggler i {
 
-    color: saddlebrown;
+    color: white !important;
 }
 
 .nav-link {
@@ -27,7 +27,7 @@
 
 .nav-link:hover {
 
-    color: saddlebrown !important;
+    color: white!important;
 }
 
 .jumbotron {
@@ -91,6 +91,7 @@ h3 {
     border-radius: 10px;
     margin-bottom: 30px;
     margin-left: 30px;
+    text-align: center;
 
 
 
